@@ -1,2 +1,0 @@
-# validator
-Created with CodeSandbox
